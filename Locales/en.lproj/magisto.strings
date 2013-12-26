@@ -1,0 +1,39 @@
+/********** MENU **********/
+
+/* Tab Bar Item icon: Everyone */
+"MENU:EXPLORE" = "Explore";
+
+/* Tab Bar Item icon: User */
+"MENU:USER" = "Me";
+
+/* Tab Bar Item icon: Create */
+"MENU:CREATE" = "Create";
+
+/* Greeting message that will appear above the application user name ont he top of the menu to access his account. */
+"SIDE_MENU:HELLO" = "Hello!";
+
+/* will appear on create movie button on side menu, click will initiate the create movie flow. */
+"SIDE_MENU:CREATE_MOVIE" = "Create Movie";
+
+/* No comment provided by engineer. */
+"SIDE_MENU:POPULAR_MOVIES" = "Popular Movies";
+
+/* No comment provided by engineer. */
+"SIDE_MENU:FEATURED_ALBUMS" = "Featured Albums";
+
+/* No comment provided by engineer. */
+"MENU:Movies" = "Movies";
+
+/* No comment provided by engineer. */
+"MENU:Albums" = "Albums";
+
+/********** CREATE **********/
+
+/* No comment provided by engineer. */
+"CREATE:NO_VIDEOS" = "No Videos";
+
+/* No comment provided by engineer. */
+"CREATE:NO_VIDEOS_message" = "Oops! You don't have any videos! Please click 'Shoot A Video' to make some";
+
+/* Propose the user to take a survey. */
+"CREATE:Survey" = "Survey";
